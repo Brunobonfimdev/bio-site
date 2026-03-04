@@ -1,34 +1,41 @@
-# 📱 Bio Site Premium - Web Topo Agência Digital
+<div align="center">
+  <img src="https://i.postimg.cc/tJV1htyp/logo-wt-dev.png" alt="Logo web topo Agência Digital" width="250">
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  # 📱 Bio Site Premium - Web Topo Agência Digital
 
-Este é um projeto de **Bio Site** (Linktree Personalizado) desenvolvido com foco em alta performance e conversão para redes sociais. 🚀
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
- 💡 Sobre o Projeto
-O Bio Site foi criado para profissionais e empresas que desejam centralizar seus links de forma elegante e profissional, utilizando o conceito de **Glassmorphism** (efeito de vidro). 💎
-
-✨ Funcionalidades
-📍 Design 100% Responsivo (focado em dispositivos móveis).
-📍 Efeito visual moderno com Glassmorphism.
-📍 Ícones sociais interativos.
-📍 Carregamento ultra rápido (sem frameworks pesados).
-📍 Animações de entrada suaves via JavaScript.
-
- 🛠️ Tecnologias Utilizadas
-🎨 **HTML5** para a estruturação semântica.
-🎨 **CSS3** para estilização personalizada e efeitos visuais.
-⚡ **JavaScript** para animações e lógica de clique.
-📦 **Git** para controle de versão.
-
-📁 Como usar
-1️⃣ Clone este repositório privado.
-2️⃣ Edite os links no arquivo `index.html`.
-3️⃣ Altere as cores e o gradiente no `style.css` conforme a identidade do cliente.
-4️⃣ Faça o deploy no GitHub Pages, Vercel ou Netlify.
+  <p>🚀 <i>Transformando cliques em clientes com elegância e performance.</i> 🚀</p>
+</div>
 
 ---
-💰 **Desenvolvido por Bruno - Web Topo Agência Digital**
-📦 *Transformando cliques em clientes.*
+
+## 💡 Sobre o Projeto
+Este é um **Bio Site** (Linktree Personalizado) desenvolvido pela **Web Topo**. Ele utiliza o conceito de **Glassmorphism** (efeito de vidro) para passar uma imagem de modernidade e autoridade para o cliente final. 💎
+
+## ✨ Funcionalidades
+📍 **Mobile-First:** Design otimizado 100% para smartphones.
+📍 **Estética Premium:** Efeito visual de vidro e desfoque de fundo.
+📍 **Engajamento:** Ícones sociais interativos e chamadas para ação claras.
+📍 **Performance:** Código limpo para carregamento instantâneo no 4G/5G.
+📍 **Dinâmica:** Animações de entrada suaves via JavaScript.
+
+## 🛠️ Tecnologias Utilizadas
+🎨 **HTML5** - Estruturação semântica.
+🎨 **CSS3** - Estilização moderna e responsiva.
+⚡ **JavaScript** - Interatividade e métricas básicas.
+📦 **Git** - Controle de versão profissional.
+
+## 📁 Como configurar para um cliente
+1️⃣ Clone este repositório.
+2️⃣ Substitua as URLs e nomes no arquivo `index.html`.
+3️⃣ Ajuste as cores no `style.css` para a paleta da marca.
+4️⃣ Realize o deploy via GitHub Pages, Vercel ou Netlify.
+
+---
+<div align="center">
+  💰 <b>Desenvolvido por Bruno - Web Topo Agência Digital</b>
+</div>
